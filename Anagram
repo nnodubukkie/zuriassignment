@@ -1,0 +1,6 @@
+str1 = "dusty" 
+str2 = "study"
+if sorted(str1) == sorted(str2):
+    print("true")
+else:
+    print("false")
